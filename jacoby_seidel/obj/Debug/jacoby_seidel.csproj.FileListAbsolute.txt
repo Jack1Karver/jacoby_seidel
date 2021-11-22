@@ -1,0 +1,7 @@
+C:\Jack\Учеба\ЧМ\jacoby_seidel\jacoby_seidel\bin\Debug\jacoby_seidel.exe.config
+C:\Jack\Учеба\ЧМ\jacoby_seidel\jacoby_seidel\bin\Debug\jacoby_seidel.exe
+C:\Jack\Учеба\ЧМ\jacoby_seidel\jacoby_seidel\bin\Debug\jacoby_seidel.pdb
+C:\Jack\Учеба\ЧМ\jacoby_seidel\jacoby_seidel\obj\Debug\jacoby_seidel.csproj.AssemblyReference.cache
+C:\Jack\Учеба\ЧМ\jacoby_seidel\jacoby_seidel\obj\Debug\jacoby_seidel.csproj.CoreCompileInputs.cache
+C:\Jack\Учеба\ЧМ\jacoby_seidel\jacoby_seidel\obj\Debug\jacoby_seidel.exe
+C:\Jack\Учеба\ЧМ\jacoby_seidel\jacoby_seidel\obj\Debug\jacoby_seidel.pdb
